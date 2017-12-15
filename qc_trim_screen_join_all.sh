@@ -9,7 +9,7 @@
 #
 # GRU01 server config. * only human and adapter paths setup.
 #
-# For adapter only screen using teh UniVec dbs run as: 
+# To run on 16S samples use the below command:
 #
 # 	bash qc_trim_screen_join_all.sh adapter
 # 
