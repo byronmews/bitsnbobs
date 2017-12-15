@@ -9,7 +9,7 @@
 #
 # GRU01 server config. * only human and adapter paths setup.
 #
-# To run on 16S samples use the below command:
+# Usage. To run on all 16S PE fastq samples in a directory use the below command:
 #
 # 	bash qc_trim_screen_join_all.sh adapter
 # 
