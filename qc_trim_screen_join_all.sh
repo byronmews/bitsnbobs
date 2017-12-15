@@ -13,6 +13,7 @@
 #
 # 	bash qc_trim_screen_join_all.sh adapter
 # 
+# Author: Graham Rose
 #
 
 
